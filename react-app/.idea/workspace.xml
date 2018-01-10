@@ -37,14 +37,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Products.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Products.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Products.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+            <state relative-caret-position="433">
+              <caret line="60" column="66" lean-forward="false" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="66" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Product.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,6 +97,7 @@
         <option value="$PROJECT_DIR$/src/Category.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/Products.js" />
+        <option value="$PROJECT_DIR$/src/Product.js" />
       </list>
     </option>
   </component>
@@ -100,8 +111,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1135" />
-    <option name="y" value="300" />
+    <option name="x" value="968" />
+    <option name="y" value="244" />
     <option name="width" value="1231" />
     <option name="height" value="793" />
   </component>
@@ -577,15 +588,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515535476276</updated>
-      <workItem from="1515535477836" duration="5661000" />
+      <workItem from="1515535477836" duration="6299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5661000" />
+    <option name="totallyTimeSpent" value="6299000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1135" y="300" width="1231" height="793" extended-state="0" />
+    <frame x="968" y="244" width="1231" height="793" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -652,6 +663,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Category.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -663,23 +684,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Category.js">
+    <entry file="file://$PROJECT_DIR$/src/Products.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="433">
+          <caret line="60" column="66" lean-forward="false" selection-start-line="60" selection-start-column="54" selection-end-line="60" selection-end-column="66" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Products.js">
+    <entry file="file://$PROJECT_DIR$/src/Product.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
