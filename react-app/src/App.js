@@ -2,6 +2,7 @@
 import React, { Component } from 'react';
 import { Link, Route, Switch } from 'react-router-dom';
 import Category from './Category';
+import Products from './Products';
 
 /* Home component */
 const Home = () => (
@@ -18,11 +19,11 @@ const Home = () => (
 // )
 
 /* Products component */
-const Products = () => (
-    <div>
-        <h2>Products</h2>
-    </div>
-)
+// const Products = () => (
+//     <div>
+//         <h2>Products</h2>
+//     </div>
+// )
 
 /* App component */
 
